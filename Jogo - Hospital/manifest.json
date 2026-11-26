@@ -1,0 +1,20 @@
+{
+  "name": "Super Enfermagem: Caminho para o Maria Amélia",
+  "short_name": "Super Enfermagem",
+  "description": "Jogo educativo de plataforma em homenagem à Enfermagem e ao Hospital Maria Amélia Buarque de Hollanda.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#071521",
+  "theme_color": "#00875a",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
